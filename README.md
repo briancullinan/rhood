@@ -4,7 +4,7 @@ Direct pay charity.
 
 Watch the bits of green and gold flow.
 
-[![MONEY](./money_huge_small.png?raw=true)](./money_huge_small.jpg?raw=true)
+[![MONEY](./money_huge_small.jpg?raw=true)](./money_huge_small.jpg?raw=true)
 
 
 Something to do with Heavens being escapism for the greedy.
@@ -28,7 +28,7 @@ It doesn't have to travel over seas to improve someone's day/life.
 "Goes to charity" are the problem words here.
 
 
-How do we write "what goes around, comes around." with code?
+How do we write "what goes around, comes around." into code?
 
 ALSO, I'm stealing this trademark.
 
